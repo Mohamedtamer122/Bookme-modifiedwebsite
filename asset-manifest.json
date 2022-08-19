@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Bookme-modifiedwebsite/static/css/main.5056cbdf.css",
+    "main.js": "/Bookme-modifiedwebsite/static/js/main.a0d4019b.js",
+    "static/media/boat.jpg": "/Bookme-modifiedwebsite/static/media/boat.5ee570829933657dfe9f.jpg",
+    "static/media/boat2.jpg": "/Bookme-modifiedwebsite/static/media/boat2.94637dba9cb37bc20ef5.jpg",
+    "static/media/flowers.jpg": "/Bookme-modifiedwebsite/static/media/flowers.aac0c3b6dca0e5f6d8e0.jpg",
+    "static/media/mainimage2.jpg": "/Bookme-modifiedwebsite/static/media/mainimage2.b7c11794cc6fe78c6851.jpg",
+    "static/media/mainimage.jpg": "/Bookme-modifiedwebsite/static/media/mainimage.b3ed06d6f53acec211fa.jpg",
+    "index.html": "/Bookme-modifiedwebsite/index.html",
+    "main.5056cbdf.css.map": "/Bookme-modifiedwebsite/static/css/main.5056cbdf.css.map",
+    "main.a0d4019b.js.map": "/Bookme-modifiedwebsite/static/js/main.a0d4019b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5056cbdf.css",
+    "static/js/main.a0d4019b.js"
+  ]
+}
